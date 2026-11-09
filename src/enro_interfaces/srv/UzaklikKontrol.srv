@@ -1,0 +1,10 @@
+float64 robot_x
+float64 robot_y
+float64 hedef_x
+float64 hedef_y
+float64 yakinlik_esigi_m
+---
+bool basarili
+float64 uzaklik_m
+bool hedefe_yakin
+string aciklama
